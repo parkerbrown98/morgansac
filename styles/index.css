@@ -1,0 +1,24 @@
+#locations {
+    padding: 8px 4px;
+    background: rgb(235, 235, 235);
+}
+
+#locations ul {
+    list-style-type: none;
+}
+
+#locations ul > li {
+    font-style: italic;
+    margin: 2px 0;
+}
+
+#locations p {
+    color: rgb(40, 40, 40);
+    margin-top: 8px;
+    font-size: 16px;
+}
+
+#warranty {
+    padding: 8px 4px;
+}
+
